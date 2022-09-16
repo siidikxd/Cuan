@@ -88,7 +88,7 @@ for xd in range(10000):
 
     ugen2.append(uaku)
 
-	    rr = random.randint
+    rr = random.randint
 
     rc = random.choice
 
